@@ -2,7 +2,7 @@
 - 👀 I’m interested in games and anime culture
 - 🌱 I’m currently learning coding
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 📫 How to reach me lognoion@gmail.com
 
 <!---
 lognoion/lognoion is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
